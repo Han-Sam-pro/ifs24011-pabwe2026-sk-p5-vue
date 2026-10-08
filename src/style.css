@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Integrasi font Plus Jakarta Sans ke dalam utilitas bawaan Tailwind v4 */
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
